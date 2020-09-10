@@ -1,0 +1,11 @@
+IMPORTA BANCO DE DADOS PARA phpMyAdmin
+
+MUDA FAVICOM(IMAGEM) NO NAVEGADOR;
+EDITA FOTOS NO EDITOR(TRANSPARENTE) E PÕE DE ACORDO COM O TAMANHO QUE ESTÁ DESCRITO NA PÁGINA;
+SOBE O SITE NA HOSPEDAGEM GRÁTIS. 
+
+o site está integrado com o banco, se vc não importar o banco, ele vai dar erro. 
+
+o codigo de envio de email está pronto.
+
+
